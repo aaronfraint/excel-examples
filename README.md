@@ -17,3 +17,5 @@ This will create a virtual environment named `excel-examples` with the following
 After installing, activate the environment with: `conda activate excel-examples`
 
 With the environment active, kick off the notebook server with `jupyter lab`
+
+## [Click here to view the notebooks](https://nbviewer.jupyter.org/github/aaronfraint/excel-examples/tree/main/notebooks/)
